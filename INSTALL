@@ -1,0 +1,13 @@
+0. requires OpenGL and freeglut (http://freeglut.sourceforge.net).
+1. cd to directory containing package's source code
+2. type ./configure or sh ./configure as appropriate
+3. type make
+4. cd src
+5. type a2b
+
+NOTE: 
+
+1. 'make install' is not supported so please dont use it. To play a2b, start
+it from the directory a2b binary is present.
+
+2. Game was tested on nvidia 5200 graphics card.

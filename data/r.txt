@@ -1,0 +1,25 @@
+box 0 0 360 100
+spline:
+num_cvs 7
+cv1 0 0
+cv2 60 100
+cv3 120 100
+cv4 180 100
+cv5 240 0
+cv6 300 0
+cv7 360 0
+num_tangents 14
+in1 0 0
+out1 60 100
+in2 0 0
+out2 120 100
+in3 60 100
+out3 180 100
+in4 120 100
+out4 240 0
+in5 180 100
+out5 300 0
+in6 240 0
+out6 360 0
+in7 300 0
+out7 360 0
