@@ -1,0 +1,31 @@
+a2b v2.0
+Written by Sampath Jagannathan <email: http://www.poojyum.com/email/>
+Copyright (c) 2004-2005 Sampath Jagannathan.
+Distributed under GPL Version 2.0. See COPYING for more information.
+
+a2b is an abstract train game where you guide trains to their destination
+without letting them collide with each other. Each game is played on a 
+set of tracks on which trains run at regular intervals.  You click-pick 
+a train and accelerate, brake or stop as necessary to safely guide it to 
+its destination. Since trains are continously being launched, more than 1 
+train  will want to use the same section of a track potentially leading to a 
+collision. You resolve this by making a train wait while you rush another 
+train or in a hopeless situation even send a train back to its base. When 
+you despatch 100 trains, a level is complete.  2 more tracks are added to 
+the network and the game continues.
+
+Controls:
+
+* Click on or near a train to select it. Only 1 train can be selected at anytime.
+* Press UP arrow key to accelerate the selected train.
+* Press DOWN arrow key to brake (and reverse) the selected train.
+* Press LEFT or RIGHT arrow key to stop the selected train.
+* You can use W, S, A and D instead of UP, DOWN, LEFT and RIGHT arrow keys.
+* Right click to pause the game.
+* ESC to abort or quit the game.
+* Use the Level Browser at the bottom of the main menu to choose a level to
+play.
+
+INSTALLATION:
+
+* Please see INSTALL file in this distribution.

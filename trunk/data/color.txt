@@ -1,0 +1,6 @@
+greenOut1 60
+greenOut2 300
+component_files ../data/r.txt ../data/g.txt ../data/b.txt
+component_min 64
+component_max 255
+absolute_component_max 255

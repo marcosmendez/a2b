@@ -1,0 +1,31 @@
+fuzzy_variable:
+theater 0 0 639 479
+num_membership_functions 2
+membership_function:
+quantity +0.05
+spline:
+num_cvs 3
+cv 0 479
+cv 192 0
+cv 639 0
+num_tangents 6
+it -20 479
+ot 192 468
+it 87 68
+ot 212 0
+it 619 0
+ot 659 0
+membership_function:
+quantity -0.2
+spline:
+num_cvs 3
+cv 0 0
+cv 448 0
+cv 639 479
+num_tangents 6
+it -20 0
+ot 22 0
+it 389 0
+ot 573 96
+it 469 362
+ot 671 479

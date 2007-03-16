@@ -1,0 +1,27 @@
+num_iterations 4
+twig_length 150
+num_branches 2
+branch1
+start_angle 0
+end_angle 60
+min_length 100
+max_length 130
+branch2
+start_angle 120
+end_angle 180
+min_length 100
+max_length 130
+
+/*num_iterations 4
+twig_length 125
+num_branches 2
+branch1
+start_angle 0
+end_angle 0
+min_length 100
+max_length 150
+branch2
+start_angle 180
+end_angle 180
+min_length 100
+max_length 150*/

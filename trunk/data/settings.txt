@@ -1,0 +1,19 @@
+width/height 800 450
+gutter_size 35
+evals_per_second 100
+trains_to_despatch 100
+trains_for_unit_launch_interval 30
+opposing_train_frequency 5
+first_coach_size 1
+delta_coach_size 3
+coach_separation 12
+default_speed 1
+min_speed 1
+max_speed 5
+waypoint_spacing 30
+node_slots 8
+slot_distance 16
+
+/*
+backup this file to restore if a2b misbehaves.
+*/
