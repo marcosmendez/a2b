@@ -1,0 +1,3 @@
+In a2b, you guide trains to their destinations without letting them collide with each other. Each game is played on a set of algorithmically generated tracks on which trains run at regular intervals. You pick a train and accelerate, brake, or stop as necessary to safely guide it to its destination. Trains are continously being launched and soon more than 1 train will want to use the same section of a track potentially leading to a collision. You can resolve this by making a train wait while you rush another train or even send a train back to its base.
+
+Despatch 100 trains and a level is complete. 2 more tracks are added and the game continues.
